@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+dist/
+build/
+.nuxt/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Capacitor
+.capacitor/
+android/
+ios/
+
+# Dist
+/dashboard/dist/
